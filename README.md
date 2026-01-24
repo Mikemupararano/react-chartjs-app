@@ -26,7 +26,7 @@ Start the development server:
 bash
 
 npm start
-Open your browser and go to http://localhost:3000 to see the app in action.
+
 
 ## Project Structure
 java
